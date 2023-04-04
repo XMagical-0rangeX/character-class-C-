@@ -1,0 +1,15 @@
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\bin\Debug\net7.0\chara.exe
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\bin\Debug\net7.0\chara.deps.json
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\bin\Debug\net7.0\chara.runtimeconfig.json
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\bin\Debug\net7.0\chara.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\bin\Debug\net7.0\chara.pdb
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\chara.csproj.AssemblyReference.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\chara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\chara.AssemblyInfoInputs.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\chara.AssemblyInfo.cs
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\chara.csproj.CoreCompileInputs.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\chara.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\refint\chara.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\chara.pdb
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\chara.genruntimeconfig.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\chara\obj\Debug\net7.0\ref\chara.dll
